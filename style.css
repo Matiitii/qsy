@@ -118,7 +118,7 @@ h2 {
     
 }
 
-#color {
+.color {
     
     color: #ffffff40;
 }
@@ -208,7 +208,7 @@ h3 {
     
 }
 
-#redondear {
+.redondear {
     border-radius: 25%;
     font-family: genshin;
     font-size:medium;
@@ -227,7 +227,7 @@ h3 {
     justify-content:space-between;
 }
 #ataquebasico {
-   height: 25%;
+   height: 22%;
    border-radius: 5%;
    margin-left: 10%;
 margin-top: 3%;
@@ -235,7 +235,7 @@ margin-top: 3%;
 }
 
 #elemental {
-    height: 28%;
+    height: 22%;
   
     border-radius: 5%;
     margin-left: 10%;
@@ -248,7 +248,7 @@ margin-top: 3%;
 }
 
  #ulti {
-    height: 30%;
+    height: 22%;
     
     border-radius: 5%;
     margin-left: 10%;
@@ -303,13 +303,13 @@ margin-top: 3%;
 }
 
 
-#c1 {
+.c1 {
     margin-top: 2%;
     color: #ffffffD9;
 }
 
 
-#imgc1 {
+.imgc1 {
     width: 5%;
 }
 
@@ -354,7 +354,7 @@ margin-top: 3%;
    
 }
 
-#fotosss {
+.fotosss {
     
     margin-left: 18%;
     width: 35%;
@@ -375,8 +375,8 @@ margin-top: 3%;
 
 .w {
     display: flex;
-    margin-left: 24%;
-    margin-right: 32%;
+    margin: 0% 20% 0% 20%;
+   
 }
 
 .tituloU {
@@ -492,7 +492,7 @@ h5 {
 }
 
 
-#decorar {
+.decorar {
     display: flex;
     flex-direction: row;
     border-radius: 15%;
@@ -507,7 +507,7 @@ h5 {
    background-size: 25%;
 }
 
-#botonesataques {
+.botonesataques {
    display: flex;
    align-items: center;
     border-radius: 30%;
@@ -578,4 +578,14 @@ h5 {
 #fuego {
     width: 50%;
     height: 50%;
+}
+
+
+#arlecchinoo {
+    width: 80%;
+    height: 80%;
+}
+
+#tamaño {
+    font-size: 15px;
 }
